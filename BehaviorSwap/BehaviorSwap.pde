@@ -1,4 +1,4 @@
-boolean devmode = true;
+boolean devmode = false;
 int[][] world;
 PImage[] tiles;
 PImage[] general;
