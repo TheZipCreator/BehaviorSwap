@@ -1,0 +1,7 @@
+(128, 128, 128) = Ground
+(64, 64, 64) = Wall
+(0, 0, 0) = Computer/Swapper
+(255, 0, 0) = Bullet
+(0, 0, 255) = Box
+(255, 255, 255) = Pnuematic Door
+(127, 0, 0) = Lever
